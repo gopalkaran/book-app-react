@@ -1,0 +1,46 @@
+{
+  "name": "book-app-with-drawer",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@emotion/react": "11.11.1",
+    "@emotion/styled": "11.11.0",
+    "@mui/icons-material": "5.14.7",
+    "@mui/material": "5.14.7",
+    "@react-spring/web": "9.7.3",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "@use-gesture/react": "10.2.27",
+    "formik": "2.4.3",
+    "notistack": "3.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.1.2",
+    "react-router": "6.15.0",
+    "react-router-dom": "6.15.0",
+    "react-scripts": "5.0.1",
+    "redux": "4.1.2",
+    "typescript": "5.2.2",
+    "use-sound": "4.0.1",
+    "yup": "1.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
